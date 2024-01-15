@@ -1,11 +1,11 @@
 {
-    "version": "1.001",
+    "version": "2.002",
     "license": "OFL-1.1",
     "homepage": "https://github.com/adobe-fonts/source-han-serif",
     "description": "Source Han Serif Subset OTF - Japanese OpenType/CFF fonts",
     "url": "https://github.com/adobe-fonts/source-han-serif/raw/release/SubsetOTF/SourceHanSerifJP.zip",
     "extract_dir": "SourceHanSerifJP",
-    "hash": "0c78abd9261986f59f80c148f5bdc52c7531ea2c59e9a434bd9a7b80610bcaa3",
+    "hash": "6cda9a09f36912ae3dbb4bb48d94bc85935338ea903fd4425abd52d24dbbdb85",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {
