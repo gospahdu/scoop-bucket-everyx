@@ -1,11 +1,11 @@
 {
-    "version": "1.001",
+    "version": "2.002",
     "license": "OFL-1.1",
     "homepage": "https://github.com/adobe-fonts/source-han-serif",
     "description": "Source Han Serif Subset OTF - Traditional Chinese (Taiwan) OpenType/CFF fonts",
     "url": "https://github.com/adobe-fonts/source-han-serif/raw/release/SubsetOTF/SourceHanSerifTW.zip",
     "extract_dir": "SourceHanSerifTW",
-    "hash": "8475fcac5ee874422494ab62a71e1e5d06af3102e5e05f31345c686c9d210041",
+    "hash": "a10503020fc44026bca7d701e78307486ca1e02304d646bcdd6f58ee27969af5",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {
