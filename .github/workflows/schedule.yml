@@ -1,0 +1,18 @@
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: '0 */12 * * *'
+
+name: Excavator
+jobs:
+  excavate:
+    name: Excavator
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: Excavator
+      uses: ScoopInstaller/GithubActions@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        USER_NAME: GitHub Action
+        USER_EMAIL: action@github.com
