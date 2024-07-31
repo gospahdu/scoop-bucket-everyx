@@ -1,11 +1,11 @@
 {
-    "version": "2.002",
+    "version": "2.003",
     "license": "OFL-1.1",
     "homepage": "https://github.com/adobe-fonts/source-han-serif",
     "description": "Source Han Serif Subset OTF - Korean OpenType/CFF fonts",
     "url": "https://github.com/adobe-fonts/source-han-serif/raw/release/SubsetOTF/SourceHanSerifKR.zip",
     "extract_dir": "SourceHanSerifKR",
-    "hash": "2f3cebb028d9ee1ba4610b004d40182c166776d7018e079ebe8c27f00b35be17",
+    "hash": "c49742155ff7d1d9b9bf295f9473edfd4a01fd1cb72d135f4324cc98b5cb315e",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {
