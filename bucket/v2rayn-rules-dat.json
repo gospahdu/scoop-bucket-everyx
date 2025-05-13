@@ -1,16 +1,16 @@
 {
     "homepage": "https://github.com/Loyalsoldier/v2ray-rules-dat",
     "description": "V2Ray 路由规则文件加强版",
-    "version": "202505112212",
+    "version": "202505122213",
     "depends": "v2rayn",
     "checkver": "github",
     "url": [
-        "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202505112212/geoip.dat",
-        "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202505112212/geosite.dat"
+        "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202505122213/geoip.dat",
+        "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202505122213/geosite.dat"
     ],
     "hash": [
         "3da2ebd4f3c2ca1a6a65759d2ca1a1b6381397b48b9f95b235ce64ef77c3d170",
-        "601dcd7899b77fc885e3b89086b270d365365a980aa7bcbf9d401f19deb0a159"
+        "0cfb085b3c8566f496ed45af4fdd43969e1ec7d138377ff98bf4998e5af30720"
     ],
     "post_install": [
         "foreach ($file in @('geoip.dat', 'geosite.dat')) {",
