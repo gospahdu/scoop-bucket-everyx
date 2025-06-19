@@ -1,5 +1,5 @@
 {
-    "version": "2.004",
+    "version": "2.005",
     "license": "OFL-1.1",
     "homepage": "https://github.com/adobe-fonts/source-han-sans",
     "description": "Source Han Sans Subset OTF - Simplified Chinese OpenType/CFF fonts",
@@ -13,13 +13,13 @@
         "https://github.com/adobe-fonts/source-han-sans/raw/release/SubsetOTF/CN/SourceHanSansCN-Regular.otf"
     ],
     "hash": [
-        "997dd673efde3a7cc7410da3ccde2a729f26dc9e1a81ad659a2d6666d36b7974",
-        "cd9f936c7dd9a153157d0129932473f93ee3c967e4de9f11c1714f58a6056d96",
-        "0b73e54405e245201ad36ec9ca7820bb9be060f40b66a5f20b2d3958532f9183",
-        "e06e70e9da402444e3fa130211d157f6f8893f6b103344b976da388ee3b8d670",
-        "f1c5928559cdd5c095122b63260e7d81ac104e5343eaf0bd30ff447c3996205c",
-        "a961763dcf9872d6ffc7ce14d8169c652413cc7f9c54ef8e0db619fd8fe191d3",
-        "c0aa89a70f92a820ff95490fea6d472cd19621a71c9a748a4950eb2eafe6438e"
+        "62383707c086a32f3afd5e293f34c7eff64c7fea31f579fdc6cbe34d920519a6",
+        "cbeba9e956a628fdc6c518ad174fe6686929211477ad4b518f9be9c950227d77",
+        "88c749b0a54a0800124ded6544e399302ed224aa49992ea364b88769f825c54c",
+        "c406ec4c795fe71ec443a8a55570d7df53dea560ea93d4117eadab6e2b19680d",
+        "a94e558a2fe972bee4f46bce0843abff37063fd68c33f1e7d9058f6f09432b01",
+        "9fc9ad5b64f086a2b342087865623923c216e346f879142a84df37c7ffd323c5",
+        "e2bc8a2e7f37474b774fff8db758681ece40bb6947a90d571bce9dd60671a8e4"
     ],
     "checkver": "github",
     "depends": "sudo",
